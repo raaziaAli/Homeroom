@@ -4,7 +4,7 @@ A random name wheel and a seating chart generator for the classroom. One HTML fi
 
 Built for a class of 20–25 with tables joined in 4s or in 2s.
 
-**Live:** https://YOUR-USERNAME.github.io/homeroom/
+**Live:** https://raaziaali.github.io/Homeroom
 
 ## What it does
 
@@ -33,7 +33,7 @@ Built for a class of 20–25 with tables joined in 4s or in 2s.
 
 **Open file** takes it back, on any computer. You can also drag a file anywhere onto the page.
 
-Dropping a plain `.txt` or `.csv` list of names creates a new class named after the file. It reads the first column, so a register exported from a school system (`Bilal, 7B, 12`) works as it is, and a header row saying "Name" is skipped.
+Dropping a plain `.txt` or `.csv` list of names creates a new class named after the file. It reads the first column, so a register exported from a school system (`Student Name", 7B, 12`) works as it is, and a header row saying "Name" is skipped.
 
 Opening a file always *adds* a class rather than overwriting one, so you can't lose work by opening the wrong file. With several classes saved, the message after saving offers one combined backup of all of them.
 
